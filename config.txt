@@ -1,0 +1,6 @@
+token= NjYzMjc1NjIyODg5Njg0OTky.XhGVNw.EFh4ULEO7DZ1qxj6JN--J7qJ28U
+owner= 618892815954608138
+prefix= 1
+game= welcome...💔
+stayinchannel=true 
+songinstatus=false 
