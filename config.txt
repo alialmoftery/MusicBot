@@ -1,6 +1,0 @@
-token= Njg5NTg4MzA0ODE5Mzg4NTc5.XnFDMA.Gwhjot1VBrj3GSjHe_86ODT4kvs
-owner= 618892815954608138
-prefix= 6
-game= 6play
-stayinchannel=true 
-songinstatus=false 
